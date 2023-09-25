@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @medranoq
 - 👀 I’m interested in AI🤖, ML🖥️, DA📉
-- 🌱 I’m currently learning Python🐍 and C#️⃣
+- 🌱 I’m currently learning Python🐍
 - 💞️ I’m looking to collaborate on DA📉 projects 📁
 - 📫 How to reach me medranoq@outlook.com 📧
 
